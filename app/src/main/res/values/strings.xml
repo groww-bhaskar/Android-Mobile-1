@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_mobile___1 strings -->
+
+	<string name="app_name">Android Mobile  1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="what_are_you_looking_string">What are you looking for?</string>
+	<string name="investing_string">Investing</string>
+	<string name="learn_string">learn</string>
+	<string name="_10_chapters_string">10 chapters</string>
+	<string name="stocks_string">Stocks</string>
+	<string name="learn_ek1_string">learn</string>
+	<string name="_10_chapters_ek1_string">10 chapters</string>
+	<string name="continue_from_where_you_left_string">continue from where you left</string>
+	<string name="introduction_to_markets_string">Introduction to markets</string>
+	<string name="_10_mins_string">10 mins</string>
+	<string name="profile_string">Profile</string>
+	<string name="articles_string">Articles</string>
+	<string name="bookmark_string">Bookmark</string>
+	<string name="basics_string">Basics</string>
+	<string name="text_string">sign in with google</string>
+	<string name="text_ek1_string">use other mail</string>
+	<string name="text_ek2_string">skip</string>
+	<string name="what_are_you_looking_ek1_string">What are you looking for?</string>
+	<string name="investing_ek1_string">Investing</string>
+	<string name="learn_ek2_string">learn</string>
+	<string name="_10_chapters_ek2_string">10 chapters</string>
+	<string name="stocks_ek1_string">Stocks</string>
+	<string name="learn_ek3_string">learn</string>
+	<string name="_10_chapters_ek3_string">10 chapters</string>
+	<string name="__p__good_to_know_that_you_are_interested_in_investing_in_stocks_string">Good to know that you are interested in investing in Stocks</string>
+	<string name="hey_there__string">Hey there!</string>
+	<string name="profile_ek1_string">Profile</string>
+	<string name="articles_ek1_string">Articles</string>
+	<string name="bookmark_ek2_string">Bookmark</string>
+	<string name="basics_ek1_string">Basics</string>
+	<string name="what_are_you_looking_ek2_string">What are you looking for?</string>
+	<string name="investing_ek2_string">Investing</string>
+	<string name="learn_ek4_string">learn</string>
+	<string name="_10_chapters_ek4_string">10 chapters</string>
+	<string name="stocks_ek2_string">Stocks</string>
+	<string name="learn_ek5_string">learn</string>
+	<string name="_10_chapters_ek5_string">10 chapters</string>
+	<string name="continue_from_where_you_left_ek1_string">continue from where you left</string>
+	<string name="introduction_to_markets_ek1_string">Introduction to markets</string>
+	<string name="_10_mins_ek1_string">10 mins</string>
+	<string name="profile_ek2_string">Profile</string>
+	<string name="articles_ek2_string">Articles</string>
+	<string name="bookmark_ek4_string">Bookmark</string>
+	<string name="basics_ek2_string">Basics</string>
+	<string name="name_string">Name</string>
+	<string name="email_id_string">email id</string>
+	<string name="phone_no__string">Phone no.</string>
+	<string name="profile_details_string">Profile details</string>
+	<string name="done_string">Done</string>
+	<string name="john_doe_string">John Doe</string>
+	<string name="john_doe_gmail_com_string">john.doe@gmail.com</string>
+	<string name="learning_progress_string">learning progress</string>
+	<string name="start_investing_string">start investing</string>
+	<string name="learn_mutual_funds_string">learn mutual funds</string>
+	<string name="total_string">total</string>
+	<string name="stocks_ek3_string">stocks</string>
+	<string name="investing_ek3_string">investing</string>
+	<string name="apply_your_knowledge_here_string">apply your knowledge here</string>
+	<string name="about_us_string">about us</string>
+	<string name="our_mission__string">our mission </string>
+	<string name="careers_string">careers</string>
+	<string name="profile_ek3_string">Profile</string>
+	<string name="articles_ek3_string">Articles</string>
+	<string name="bookmark_ek6_string">Bookmark</string>
+	<string name="basics_ek3_string">Basics</string>
+	<string name="tell_your_friends_string">tell your friends</string>
+	<string name="learning_progress_ek1_string">learning progress</string>
+	<string name="start_investing_ek1_string">start investing</string>
+	<string name="learn_mutual_funds_ek1_string">learn mutual funds</string>
+	<string name="total_ek1_string">total</string>
+	<string name="stocks_ek4_string">stocks</string>
+	<string name="investing_ek4_string">investing</string>
+	<string name="apply_your_knowledge_here_ek1_string">apply your knowledge here</string>
+	<string name="about_us_ek1_string">about us</string>
+	<string name="our_mission__ek1_string">our mission </string>
+	<string name="careers_ek1_string">careers</string>
+	<string name="share__string">share </string>
+	<string name="you_have_not_given_us__any_details_about_you__string">You have not given us \
+any details about you.</string>
+	<string name="profile_ek4_string">Profile</string>
+	<string name="articles_ek4_string">Articles</string>
+	<string name="bookmark_ek8_string">Bookmark</string>
+	<string name="basics_ek4_string">Basics</string>
+	<string name="sign_up_string">sign up</string>
+	<string name="__p__share___simple_line_icons_copy_string"></string>
+	<string name="why_you_should_invest__string">Why you should invest?</string>
+	<string name="english_string">English</string>
+	<string name="hindi_string">hindi</string>
+	<string name="tamil_string">tamil</string>
+	<string name="tamil_ek1_string">tamil</string>
+	<string name="language_string">language</string>
+	<string name="__p__in_this_video_we_would_cover_what_is_investing__what_are_the_benefits_of_investing_and_how_does_one_start_investing__secondly__we_will_cover_how_we_indians_generally_invest_into_i_e__fd__real_estate_and_gold__also__we_will_explain_how_you_could_reap_out_th_string">In this video we would cover what is investing, what are the benefits of investing and how does one start investing. Secondly, we will cover how we indians generally invest into i.e. FD, real estate and gold. Also, we will explain how you could reap out the benfits of compund interest and how compounding can help your money work for you, rather than you working for your money. Lastly, we will touch with equity as well as mutual fund investing and what is the suitabilty of these ways of investing like for who, stock investing is right and for whom mutual fund investing is right</string>
+	<string name="more_details_string">More details</string>
+	<string name="take_quiz_string">take Quiz</string>
+	<string name="__p__share___simple_line_icons_copy_ek1_string"></string>
+	<string name="why_you_should_invest__ek1_string">Why you should invest?</string>
+	<string name="english_ek1_string">English</string>
+	<string name="hindi_ek1_string">hindi</string>
+	<string name="tamil_ek2_string">tamil</string>
+	<string name="tamil_ek3_string">tamil</string>
+	<string name="language_ek1_string">language</string>
+	<string name="__p__in_this_video_we_would_cover_what_is_investing__what_are_the_benefits_of_investing_and_how_does_one_start_investing__secondly__we_will_cover_how_we_indians_generally_invest_into_i_e__fd__real_estate_and_gold__also__we_will_explain_how_you_could_reap_out_th_ek1_string">In this video we would cover what is investing, what are the benefits of investing and how does one start investing. Secondly, we will cover how we indians generally invest into i.e. FD, real estate and gold. Also, we will explain how you could reap out the benfits of compund interest and how compounding can help your money work for you, rather than you working for your money. Lastly, we will touch with equity as well as mutual fund investing and what is the suitabilty of these ways of investing like for who, stock investing is right and for whom mutual fund investing is right</string>
+	<string name="more_details_ek1_string">More details</string>
+	<string name="take_quiz_ek1_string">take Quiz</string>
+	<string name="__p__share___simple_line_icons_copy_ek2_string"></string>
+	<string name="calculators_string">Calculators</string>
+	<string name="___copy_string">Amount  invested </string>
+	<string name="___copy_ek1_string">interest rate</string>
+	<string name="___copy_ek2_string"></string>
+	<string name="___copy_ek3_string">123456</string>
+	<string name="___copy_ek4_string">%</string>
+	<string name="___copy_ek5_string">15</string>
+	<string name="___copy_ek6_string">15</string>
+	<string name="___copy_ek7_string">No. of years</string>
+	<string name="__p__share___simple_line_icons_copy_ek3_string"></string>
+	<string name="calculators_ek1_string">Calculators</string>
+	<string name="___copy_ek8_string">Amount  invested </string>
+	<string name="___copy_ek9_string">interest rate</string>
+	<string name="___copy_ek10_string"></string>
+	<string name="___copy_ek11_string">123456</string>
+	<string name="___copy_ek12_string">%</string>
+	<string name="___copy_ek13_string">15</string>
+	<string name="___copy_ek14_string">15</string>
+	<string name="___copy_ek15_string">No. of years</string>
+	<string name="___copy_ek16_string">No. of years</string>
+	<string name="___copy_ek17_string"></string>
+	<string name="___copy_ek18_string">123456</string>
+	<string name="blogs_string">blogs</string>
+	<string name="videos_string">videos</string>
+	<string name="sort_by_string">sort by</string>
+	<string name="__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_string">Mutual Fund Factsheet : Key Information It Holds And How To Read It</string>
+	<string name="__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek1_string">Mutual Fund Factsheet : Key Information It Holds And How To Read It</string>
+	<string name="what_are_you_looking_ek3_string">What are you looking for?</string>
+	<string name="profile_ek5_string">Profile</string>
+	<string name="bookmark_ek14_string">Bookmark</string>
+	<string name="basics_ek5_string">Basics</string>
+	<string name="articles_ek8_string">Articles</string>
+	<string name="__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek2_string">Mutual Fund Factsheet : Key Information It Holds And How To Read It</string>
+	<string name="blogs_ek1_string">blogs</string>
+	<string name="videos_ek1_string">videos</string>
+	<string name="sort_by_ek1_string">sort by</string>
+	<string name="what_are_you_looking_ek4_string">What are you looking for?</string>
+	<string name="mutual_fund_factsheet___key_information__it_holds_and_how_to_read_it_string">Mutual Fund Factsheet : Key Information \
+It Holds And How To Read It</string>
+	<string name="profile_ek6_string">Profile</string>
+	<string name="bookmark_ek19_string">Bookmark</string>
+	<string name="basics_ek6_string">Basics</string>
+	<string name="articles_ek9_string">Articles</string>
+	<string name="rs_100_cr__string">Rs 100 Cr.</string>
+	<string name="rs_1_everyday_string">Rs 1 everyday</string>
+	<string name="either_of_these_string">Either of these</string>
+	<string name="next_string">next</string>
+	<string name="previous_string">previous</string>
+	<string name="why_you_should_invest__ek2_string">Why you should invest?</string>
+	<string name="__p__will_you_ask_for_rs_100_cr__or_rs_1_first_____day_which_gets_doubled_everyday_for_31_days__string">Will you ask for Rs 100 cr. or Rs 1 first     day which gets doubled everyday for 31 days?</string>
+	<string name="_1_string">1</string>
+	<string name="watch_video_string">watch video</string>
+	<string name="why_you_should_invest__ek3_string">Why you should invest?</string>
+	<string name="that_s_not_the_right_answer_string">Thats not the right answer</string>
+	<string name="__p__will_you_ask_for_rs_100_cr__or_rs_1_first_____day_which_gets_doubled_everyday_for_31_days__ek1_string">Will you ask for Rs 100 cr. or Rs 1 first     day which gets doubled everyday for 31 days?</string>
+	<string name="_1_ek1_string">1</string>
+	<string name="next_ek1_string">next</string>
+	<string name="previous_ek1_string">previous</string>
+	<string name="rs_100_cr__ek1_string">Rs 100 Cr.</string>
+	<string name="rs_1_everyday_ek1_string">Rs 1 everyday</string>
+	<string name="either_of_these_ek1_string">Either of these</string>
+	<string name="watch_video_ek1_string">watch video</string>
+	<string name="yay__you_rock__string">Yay! you rock!</string>
+	<string name="rs_100_cr__ek2_string">Rs 100 Cr.</string>
+	<string name="rs_1_everyday_ek2_string">Rs 1 everyday</string>
+	<string name="either_of_these_ek2_string">Either of these</string>
+	<string name="next_ek2_string">next</string>
+	<string name="previous_ek2_string">previous</string>
+	<string name="why_you_should_invest__ek4_string">Why you should invest?</string>
+	<string name="__p__will_you_ask_for_rs_100_cr__or_rs_1_first_____day_which_gets_doubled_everyday_for_31_days__ek2_string">Will you ask for Rs 100 cr. or Rs 1 first     day which gets doubled everyday for 31 days?</string>
+	<string name="_1_ek2_string">1</string>
+	<string name="watch_video_ek2_string">watch video</string>
+	<string name="why_you_should_invest__ek5_string">Why you should invest?</string>
+	<string name="__p__this_is_the_right_answer_because_of_the_following_reasons_1__not_really_sure_what_is_happening_2__yes_that_s_the_least__string">This is the right answer because of the following reasons\
+1. Not really sure what is happening\
+2. Yes thats the least </string>
+	<string name="__p__will_you_ask_for_rs_100_cr__or_rs_1_first_____day_which_gets_doubled_everyday_for_31_days__ek3_string">Will you ask for Rs 100 cr. or Rs 1 first     day which gets doubled everyday for 31 days?</string>
+	<string name="_1_ek3_string">1</string>
+	<string name="next_ek3_string">next</string>
+	<string name="previous_ek3_string">previous</string>
+	<string name="rs_100_cr__ek3_string">Rs 100 Cr.</string>
+	<string name="rs_1_everyday_ek3_string">Rs 1 everyday</string>
+	<string name="either_of_these_ek3_string">Either of these</string>
+	<string name="watch_video_ek3_string">watch video</string>
+	<string name="take_quiz_ek2_string">take Quiz</string>
+	<string name="_15_mins_string">15 mins</string>
+	<string name="_15_mins_ek1_string">15 mins</string>
+	<string name="introduction_to_markets_ek2_string">Introduction to markets</string>
+	<string name="success_stories_string">Success Stories</string>
+	<string name="_10_questions_string">10 questions</string>
+	<string name="why__where_and_how_you_are_investing_parameters_for_investing_traditional_asset_classes_power_of_compounding_string">Why, where and how you are investing\
+Parameters for investing\
+Traditional asset classes\
+Power of compounding</string>
+	<string name="why_you_should_invest__ek6_string">Why you should invest?</string>
+	<string name="_15_mins_ek2_string">15 mins</string>
+	<string name="_15_mins_ek3_string">15 mins</string>
+	<string name="get_investment_ready_string">Get Investment Ready</string>
+	<string name="_15_mins_ek4_string">15 mins</string>
+	<string name="_15_mins_ek5_string">15 mins</string>
+	<string name="introduction_to_markets_ek3_string">Introduction to markets</string>
+	<string name="success_stories_ek1_string">Success Stories</string>
+	<string name="_15_mins_ek6_string">15 mins</string>
+	<string name="get_investment_ready_ek1_string">Get Investment Ready</string>
+	<string name="stocks_ek5_string">Stocks</string>
+	<string name="english_ek2_string">English</string>
+	<string name="hindi_ek2_string">hindi</string>
+	<string name="tamil_ek4_string">tamil</string>
+	<string name="tamil_ek5_string">tamil</string>
+	<string name="language_ek2_string">language</string>
+	<string name="__p__good_to_know_that_you_are_interested_in__investing_in_stocks__continue_here_if_you__need_to_learn_about_how_to_choose_and__invest_in_stocks_string">Good to know that you are interested in \
+investing in Stocks. Continue here if you \
+need to learn about how to choose and \
+invest in stocks</string>
+	<string name="yay___you_finished_one_chapter_string">Yay! \
+You finished one\
+chapter</string>
+	<string name="next_chapter_string">next chapter</string>
+	<string name="introduction_to_markets_ek4_string">Introduction to markets</string>
+	<string name="share_ek1_string">Share</string>
+	<string name="back_string">back</string>
+	<string name="what_are_you_looking_ek5_string">What are you looking for?</string>
+	<string name="investing_ek5_string">Investing</string>
+	<string name="learn_ek6_string">learn</string>
+	<string name="_10_chapters_ek6_string">10 chapters</string>
+	<string name="stocks_ek6_string">Stocks</string>
+	<string name="learn_ek7_string">learn</string>
+	<string name="_10_chapters_ek7_string">10 chapters</string>
+	<string name="__p__good_to_know_that_you_are_interested_in_investing_in_stocks_ek1_string">Good to know that you are interested in investing in Stocks</string>
+	<string name="hey_there__ek1_string">Hey there!</string>
+	<string name="profile_ek7_string">Profile</string>
+	<string name="articles_ek10_string">Articles</string>
+	<string name="bookmark_ek22_string">Bookmark</string>
+	<string name="basics_ek7_string">Basics</string>
+	<string name="what_are_you_looking_ek6_string">What are you looking for?</string>
+	<string name="profile_ek8_string">Profile</string>
+	<string name="articles_ek11_string">Articles</string>
+	<string name="basics_ek8_string">Basics</string>
+	<string name="bookmark_ek24_string">Bookmark</string>
+	<string name="_15_mins_ek7_string">15 mins</string>
+	<string name="get_investment_ready_ek2_string">Get Investment Ready</string>
+	<string name="__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek3_string">Mutual Fund Factsheet : Key Information It Holds And How To Read It</string>
+	<string name="basics_ek9_string">basics</string>
+	<string name="articles_ek12_string">articles</string>
+	<string name="__p__mutual_fund_factsheet___key_information__it_holds_and_how_to_read_it_ek1_string">Mutual Fund Factsheet : Key Information \
+It Holds And How To Read It</string>
+	<string name="__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek4_string">Mutual Fund Factsheet : Key Information It Holds And How To Read It</string>
+	<string name="__p__sip_stands_for_systematic_investment_plan__it_is_an_organized_way_of_investing_in_mutual_funds_of_one_s_choice__usually_at_fixed_time_intervals___generally__sip_allows_for_a_certain_amount_of_money__decided_by_the_investor__to_be_automatically_deducted_fro_string">SIP stands for Systematic Investment Plan. It is an organized way of investing in mutual funds of ones choice, usually at fixed time intervals.\
+\
+Generally, SIP allows for a certain amount of money, decided by the investor, to be automatically deducted from the investors account and invests it in a mutual fund of the investors choice.\
+\
+Depending on the NAV for the day, the amount of SIP is allocated towards buying certain units of the mutual fund.\
+\
+This process repeats every month automatically without the interference of the investor. Thereby, saving time and cost of the investor and ensuring regularity.\
+\
+An important benefit of the SIP scheme is the benefit of rupee-cost averaging over long periods of investment.\
+\
+\
+Read more on Groww: https://groww.in/blog/a-major-reason-why-sip-can-make-you-rich/</string>
+	<string name="blogs_ek2_string">Blogs</string>
+	<string name="groww_string">Groww</string>
+	<string name="take_quiz_ek3_string">take Quiz</string>
+	<string name="_15_mins_ek8_string">15 mins</string>
+	<string name="_15_mins_ek9_string">15 mins</string>
+	<string name="introduction_to_markets_ek5_string">Introduction to markets</string>
+	<string name="success_stories_ek2_string">Success Stories</string>
+	<string name="_10_questions_ek1_string">10 questions</string>
+	<string name="__p__why__where_and_how_you_are_investing_parameters_for_investing_traditional_asset_classes_power_of_compounding_ek1_string">Why, where and how you are investing\
+Parameters for investing\
+Traditional asset classes\
+Power of compounding</string>
+	<string name="why_you_should_invest__ek7_string">Why you should invest?</string>
+	<string name="_15_mins_ek10_string">15 mins</string>
+	<string name="_15_mins_ek11_string">15 mins</string>
+	<string name="get_investment_ready_ek3_string">Get Investment Ready</string>
+	<string name="_15_mins_ek12_string">15 mins</string>
+	<string name="_15_mins_ek13_string">15 mins</string>
+	<string name="introduction_to_markets_ek6_string">Introduction to markets</string>
+	<string name="success_stories_ek3_string">Success Stories</string>
+	<string name="_15_mins_ek14_string">15 mins</string>
+	<string name="get_investment_ready_ek4_string">Get Investment Ready</string>
+	<string name="english_ek3_string">English</string>
+	<string name="hindi_ek3_string">hindi</string>
+	<string name="tamil_ek6_string">tamil</string>
+	<string name="tamil_ek7_string">tamil</string>
+	<string name="language_ek3_string">language</string>
+	<string name="stocks_ek7_string">Stocks</string>
+	<string name="_15_mins_ek15_string">15 mins</string>
+	<string name="_15_mins_ek16_string">15 mins</string>
+	<string name="introduction_to_markets_ek7_string">Introduction to markets</string>
+	<string name="success_stories_ek4_string">Success Stories</string>
+	<string name="_15_mins_ek17_string">15 mins</string>
+	<string name="get_investment_ready_ek5_string">Get Investment Ready</string>
+	<string name="_15_mins_ek18_string">15 mins</string>
+	<string name="_15_mins_ek19_string">15 mins</string>
+	<string name="introduction_to_markets_ek8_string">Introduction to markets</string>
+	<string name="success_stories_ek5_string">Success Stories</string>
+	<string name="_15_mins_ek20_string">15 mins</string>
+	<string name="get_investment_ready_ek6_string">Get Investment Ready</string>
+	<string name="stocks_ek8_string">Stocks</string>
+	<string name="english_ek4_string">English</string>
+	<string name="hindi_ek4_string">hindi</string>
+	<string name="tamil_ek8_string">tamil</string>
+	<string name="tamil_ek9_string">tamil</string>
+	<string name="language_ek4_string">language</string>
+	<string name="__p__good_to_know_that_you_are_interested_in__investing_in_stocks__continue_here_if_you__need_to_learn_about_how_to_choose_and__invest_in_stocks_ek1_string">Good to know that you are interested in \
+investing in Stocks. Continue here if you \
+need to learn about how to choose and \
+invest in stocks</string>
+	<string name="_10_questions_ek2_string">10 questions</string>
+	<string name="_15_mins_ek21_string">15 mins</string>
+	<string name="__p__why__where_and_how_you_are_investing_parameters_for_investing_traditional_asset_classes_power_of_compounding_ek2_string">Why, where and how you are investing\
+Parameters for investing\
+Traditional asset classes\
+Power of compounding</string>
+	<string name="why_you_should_invest__ek8_string">Why you should invest?</string>
+	<string name="take_quiz_ek4_string">take Quiz</string>
+</resources>

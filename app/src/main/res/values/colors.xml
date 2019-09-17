@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_mobile___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__android_mobile___1_ek2_color">#ffffff</color>
+	<color name="_bg__android_mobile___50_ek2_color">#1b1f27</color>
+	<color name="what_are_you_looking_color">#ffffff</color>
+	<color name="rectangle_182_color">#283540</color>
+	<color name="investing_color">#f9fafa</color>
+	<color name="learn_color">#b1b4b7</color>
+	<color name="rectangle_184_color">#eb5b3c</color>
+	<color name="rectangle_188_color">#ffb61b</color>
+	<color name="profile_color">#5367ff</color>
+	<color name="ellipse_3_color">#b1b4b7</color>
+	<color name="basics_color">#00d09c</color>
+	<color name="ellipse_18_color">#5367ff</color>
+	<color name="name_color">#cccfd1</color>
+	<color name="profile_details_color">#ecedee</color>
+	<color name="rectangle_181_color">#00d09c</color>
+	<color name="done_color">#1b1f27</color>
+	<color name="rectangle_206_color">#3f3356</color>
+	<color name="__p__share___simple_line_icons_copy_color">#44475b</color>
+	<color name="___copy_ek17_color">#ffb61b</color>
+	<color name="blogs_color">#3f3356</color>
+	<color name="rectangle_96_color">#44475b</color>
+	<color name="ellipse_47_color">#000000</color>
+	<color name="basics_ek9_color">#707070</color>
+	<color name="rectangle_139_ek1_color">#222730</color>
+</resources>

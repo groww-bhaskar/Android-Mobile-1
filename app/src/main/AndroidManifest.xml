@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".android_mobile___1_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.android_mobile___50_activity"></activity>
+			<activity android:name="exportkit.xd.artboard_activity"></activity>
+			<activity android:name="exportkit.xd.home_page_after_starting_tutorial_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___74_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___75_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___76_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___77_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___78_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___82_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___84_activity"></activity>
+			<activity android:name="exportkit.xd.articles_activity"></activity>
+			<activity android:name="exportkit.xd.articles_videos_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___54_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___55_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___73_activity"></activity>
+			<activity android:name="exportkit.xd.tutorial_list_all_collapsed_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___79_activity"></activity>
+			<activity android:name="exportkit.xd.bookmarks_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___13_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___67_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___68_activity"></activity>
+			<activity android:name="exportkit.xd.android_mobile___57_activity"></activity>
+			<activity android:name="exportkit.xd.tutorials_list_activity"></activity>
+	</application>
+
+</manifest>
+	
+	

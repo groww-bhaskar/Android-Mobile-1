@@ -1,0 +1,161 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_mobile___1
+	 *	@date 		0
+	 *	@title 		Android Mobile  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.8.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_mobile___13" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_android_mobile___13_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__android_mobile___13_ek2"
+					android:background="@drawable/_bg__android_mobile___13_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="840dp" />
+
+				<View android:id="@+id/rectangle_99_ek1"
+					android:background="@drawable/rectangle_99_ek1_shape"
+					 android:layout_marginLeft="-1dp"
+					 android:layout_marginStart="-1dp"
+					android:layout_marginTop="78dp"
+					android:layout_width="361dp"
+					android:layout_height="202.875dp" />
+
+				<TextView android:id="@+id/__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek4"
+					android:fontFamily="Roboto"
+					android:textSize="15sp"
+					android:textColor="@color/profile_details_color"
+					android:layout_marginLeft="37dp"
+					android:layout_marginTop="220dp"
+					android:layout_width="286dp"
+					android:layout_height="50.5dp"
+					android:text="@string/__p__mutual_fund_factsheet___key_information_it_holds_and_how_to_read_it_ek4_string"
+					 />
+
+				<TextView android:id="@+id/__p__sip_stands_for_systematic_investment_plan__it_is_an_organized_way_of_investing_in_mutual_funds_of_one_s_choice__usually_at_fixed_time_intervals___generally__sip_allows_for_a_certain_amount_of_money__decided_by_the_investor__to_be_automatically_deducted_fro"
+					android:fontFamily="Roboto"
+					android:textSize="14sp"
+					android:textColor="@color/learn_color"
+					android:layout_marginLeft="37dp"
+					android:layout_marginTop="313dp"
+					android:layout_width="286dp"
+					android:layout_height="643dp"
+					android:text="@string/__p__sip_stands_for_systematic_investment_plan__it_is_an_organized_way_of_investing_in_mutual_funds_of_one_s_choice__usually_at_fixed_time_intervals___generally__sip_allows_for_a_certain_amount_of_money__decided_by_the_investor__to_be_automatically_deducted_fro_string"
+					 />
+
+				<View android:id="@+id/rectangle_73_ek5"
+					android:background="@drawable/rectangle_73_ek5_shape"
+					 android:alpha="0.80000001192093"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="80dp" />
+
+				<TextView android:id="@+id/blogs_ek2"
+					android:fontFamily="Roboto"
+					android:textSize="20sp"
+					android:textColor="@color/profile_details_color"
+					android:layout_marginLeft="100dp"
+					android:layout_marginTop="30dp"
+					android:layout_width="56dp"
+					android:layout_height="30dp"
+					android:text="@string/blogs_ek2_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/component_7___1_ek5"
+					android:layout_marginTop="29dp"
+					android:layout_marginStart="30dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_82_ek10"
+						android:background="@drawable/rectangle_82_ek10_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="30dp"
+						android:layout_height="30dp" />
+
+
+					<RelativeLayout android:id="@+id/group_132_ek10"
+						android:layout_marginTop="9dp"
+						android:layout_marginStart="8dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_30_ek10"
+							android:src="@drawable/path_30_ek10"
+							android:contentDescription="path_30_ek10"
+							 android:layout_marginLeft="-1dp"
+							 android:layout_marginStart="-1dp"
+							android:layout_marginTop="-1dp"
+							android:layout_width="8.345703125dp"
+							android:layout_height="14.79931640625dp" />
+
+						<ImageView android:id="@+id/path_31_ek10"
+							android:src="@drawable/path_31_ek10"
+							android:contentDescription="path_31_ek10"
+							 android:layout_marginLeft="-1dp"
+							 android:layout_marginStart="-1dp"
+							android:layout_marginTop="5dp"
+							android:layout_width="15.951904296875dp"
+							android:layout_height="2dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
